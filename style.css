@@ -1,8 +1,10 @@
-body {}
+body {
+    margin: 0px;
+}
 
 .page {
     background: #f4f4f0 url(images/homepage.jpg) no-repeat top;
-    border: 24px solid white;
+    border: 33px solid white;
     position: relative;
     min-height: 100vh;
 }
@@ -28,7 +30,7 @@ img.logo {
     font-family: 'Roboto Condensed', sans-serif;
     padding-top: 177px;
     padding-left: 148px;
-    background: url(https://sun9-56.userapi.com/c857432/v857432140/6b3fa/rIG9xxFi4m8.jpg);
+    background: url(images/rIG9xxFi4m8.jpg);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -40,61 +42,15 @@ img.logo {
     z-index: 2;
 }
 
-.container .left-block img.food:nth-child(2) {
+.container .left-block img.food {
     position: absolute;
     top: 13%;
     left: 1%;
     width: 112%;
 }
 
-.container .left-block img.food:nth-child(3) {
-    position: absolute;
-    top: 13%;
-    left: 0%;
-    width: 114%;
-}
 
-.container .left-block img.food:nth-child(4) {
-    position: absolute;
-    top: 13%;
-    left: 0%;
-    width: 114%;
-}
 
-.container .left-block img.food:nth-child(5) {
-    position: absolute;
-    top: 13%;
-    left: 0%;
-    width: 114%;
-}
-
-.container .left-block img.food:nth-child(6) {
-    position: absolute;
-    top: 13%;
-    left: 0%;
-    width: 114%;
-}
-
-.container .left-block img.food:nth-child(7) {
-    position: absolute;
-    top: 13%;
-    left: 0%;
-    width: 114%;
-}
-
-.container .left-block img.food:nth-child(8) {
-    position: absolute;
-    top: 13%;
-    left: 0%;
-    width: 114%;
-}
-
-.container .left-block img.food:nth-child(9) {
-    position: absolute;
-    top: 13%;
-    left: 0%;
-    width: 114%;
-}
 
 .container .right-block {
     width: 50%;
