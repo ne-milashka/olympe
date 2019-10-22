@@ -164,10 +164,13 @@ p {
 }
 
 .experts {
-  margin: 253px 60px
+  padding: 0 4.5vw;
+  margin: 40px 4px 0 0;      
+  
 }
 
-.experts h2 {
+.experts h2,
+.process h2 {
   font-size: 15px;
   font-weight: bold;
   letter-spacing: 2px;
@@ -176,4 +179,11 @@ p {
 
 .experts h3 {
   margin-bottom: 24px;
+}
+.process {
+  padding: 0 6vw;
+  margin-top: 17px;
+}
+.process h3 {
+  margin-bottom: 5px;
 }
