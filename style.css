@@ -160,16 +160,14 @@ p {
 }
 
 .video {
-  padding: 50px 74px;
   display: flex;
-  justify-content: center;
+  margin: 23px 0 0 81px;
 }
 
 
 .experts {
   padding: 0 4.5vw;
-  margin: 40px 4px 0 0;
-
+  margin: 135px 4px 0 0;
 }
 
 .experts h2,
@@ -186,7 +184,7 @@ p {
 
 .process {
   padding: 0 6vw;
-  margin-top: 17px;
+  margin-top: 112px;
 }
 
 .process h3 {
